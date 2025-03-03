@@ -4,4 +4,4 @@ Here I will upload lessions and learning of langchain. You will find markdown fi
 
 #### Updates:
 
-- Lession 01: ![Lession 01 link](https://github.com/AtriSaxena/langchain_learning/blob/main/Lession_01.md)
+- Lession 01: *[Lession 01 link](https://github.com/AtriSaxena/langchain_learning/blob/main/Lession_01.md)*
