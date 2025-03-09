@@ -18,4 +18,26 @@ It abstracts the complexity of working directly with different LLMs, chat models
 
 - **Chat Models:** Language Models that are specialized for conversational tasks. They take a sequence of messages as inputs and return chat message as outputs (as opposed to using plain text). These are traditionally newer models and used more in comparison to the LLMs. 
 
-![alt text](images/lession3_03.png.png)
+![alt text](images/lession3_03.png)
+
+- **Temperature:** Temperature is a parameter that controls the randomness of a language model's output. It affects how creative or deterministic the responses are. 
+    - **Lower values (0.0-0.3)** - More determnistic and predictable. 
+    - **Higher values (0.7 - 1.5)** - More random, creative and diverse. 
+
+![alt text](images/lession_3_04.png)
+
+### Open Source Models
+
+Open-source language models are freely available AI Models that can be downloaded, modified, fine-tuned, and deployed without restrictions from a central provider. Unlike closed source models such as OepnAI's GPT-4, Anthropic's Claude, or Google Gemini, open-source models models allow full control and customization. 
+
+![alt text](images/lession_3_5.png.png)
+
+![alt text](images/lession_3_6.png)
+
+- **Where to find them?:** Huggingface the largest repository of open-source LLMs. 
+
+- **Ways to use Open-source Models**
+    - Using Hugging Face Inference API
+    - Running Locally
+
+    ![alt text](images/lession_3_7.png)
