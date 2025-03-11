@@ -10,7 +10,9 @@ Here I will upload lessions and learning of langchain. You will find markdown fi
 
 - Lession 03: *[Lession 02 link](https://github.com/AtriSaxena/langchain_learning/blob/main/Lession_03.md)*
 
+#### Written by: 
+- *[Atri Saxena - LinkedIn](https://www.youtube.com/@campusx-official)*
 
-#### Sources
+#### Sources: 
 - Youtube: *[CampusX - Nitish Singh](https://www.youtube.com/@campusx-official)*
 
