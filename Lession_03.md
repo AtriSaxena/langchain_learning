@@ -23,6 +23,7 @@ It abstracts the complexity of working directly with different LLMs, chat models
 - **Temperature:** Temperature is a parameter that controls the randomness of a language model's output. It affects how creative or deterministic the responses are. 
     - **Lower values (0.0-0.3)** - More determnistic and predictable. 
     - **Higher values (0.7 - 1.5)** - More random, creative and diverse. 
+    - Everytime you run, if you set close to 0, there might be same kind of output. If you set close to 2, everytime you run will get new kind of output and create randomness.
 
 ![alt text](images/lession_3_04.png)
 
