@@ -16,6 +16,8 @@ Here I will upload lessions and learning of langchain. You will find markdown fi
 
 - Lession 06: *[Lession 06 link](https://github.com/AtriSaxena/langchain_learning/blob/main/Lession_06.md)*
 
+- Lession 07: *[Lession 07 link](https://github.com/AtriSaxena/langchain_learning/blob/main/Lession_07.md)*
+
 #### Written by: 
 - *[Atri Saxena - LinkedIn](https://www.youtube.com/@campusx-official)*
 
