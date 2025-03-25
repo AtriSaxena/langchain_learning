@@ -20,3 +20,24 @@
 - Common interface is there in Runnable `invoke()`, `batch()` and `stream()`.
 - We can connect various components togerther to form runnables as well and two or more runnables as well.
 - Check code to understand better `8.Runnables`
+
+### Type of Runnables
+- **Task Specific Runnables**
+    - **Definition:** These are core LangChain Components that have been converted into Runnables so they can be used in Pipelines.
+    - **Purpose:** Perform task-specific operations like LLM calls, prompting, retrieval etc. 
+    - **Examples:**
+        - `ChatOpenAI` -> Runs an LLM Model.
+        - `PromptTemplate` -> Formats prompts dynamically.
+        - `Retriever` -> Retreives relevant documents.
+
+- **Runnable Primitives:**
+    - **Definition:** These are fundamental building blocks for structuring execution login in AI workflows.
+    - **Purpose:** They help orchestrate execution by defining how different Runnables interact.(Sequentially, in-parallel, conditionally etc.)
+    - **Examples:**
+        - `RunnableSequence` -> Runs steps in order (`|` operator)
+        - `RunnableParallel` -> Runs multiple steps simultaneously.
+        - `RunnableMap` -> Maps the same input across multiple functions.
+        - `RunnableBranch` -> Implements conditional execution (if else logic)
+        - `RunnableLambda` -> Wraps custom Python functions into Runnables.
+        - `RunnablePassThrough` -> Just forwards input as output (acts as a placeholder)
+        
