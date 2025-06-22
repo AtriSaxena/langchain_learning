@@ -39,7 +39,7 @@ Here I will upload lessions and learning of langchain. You will find markdown fi
 - Lession 17 (AI Agent in LangChain): *[Lession 17 link](https://github.com/AtriSaxena/langchain_learning/blob/main/Lession_17.md)*
 
 #### Written by: 
-- *[Atri Saxena - LinkedIn](https://www.youtube.com/@campusx-official)*
+- *[Atri Saxena - LinkedIn](https://www.linkedin.com/in/atrisaxena/)*
 
 #### Sources: 
 - Youtube: *[CampusX - Nitish Singh](https://www.youtube.com/@campusx-official)*
