@@ -1,8 +1,34 @@
 ## LangChain learning 
 
-Here I will upload lessions and learning of langchain. You will find markdown files and code also. 
+# 📘 LangChain Notes
 
-#### Updates:
+[![GitHub license](https://img.shields.io/github/license/AtriSaxena/langchain_learning)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/AtriSaxena/langchain_learning)](https://github.com/your-username/langchain-notes/commits/main)
+[![Issues](https://img.shields.io/github/issues/AtriSaxena/langchain_learning)](https://github.com/your-username/langchain-notes/issues)
+[![Stars](https://img.shields.io/github/stars/AtriSaxena/langchain_learning)](https://github.com/your-username/langchain-notes/stargazers)
+
+---
+
+## 📄 Description
+
+This repository contains detailed notes and practical examples on **LangChain**, a modular framework for developing applications powered by large language models (LLMs).
+
+It includes explanations, code snippets, and best practices for working with:
+
+- 🔗 Chains
+- 🧠 Memory
+- 🛠️ Tools
+- 🤖 Agents
+- 📚 RAG (Retrieval-Augmented Generation)
+- 🧾 Prompts and Templates
+- 🔍 Vector Stores and Embeddings
+- 🔌 API & External Tool Integration
+
+These notes are structured for both learning and reference, aimed at ML/AI developers, researchers, and hobbyists working with LLMs and LangChain.
+
+---
+
+#### Notes:
 
 - Lession 01 (LLMs): *[Lession 01 link](https://github.com/AtriSaxena/langchain_learning/blob/main/Lession_01.md)*
 
@@ -44,3 +70,8 @@ Here I will upload lessions and learning of langchain. You will find markdown fi
 #### Sources: 
 - Youtube: *[CampusX - Nitish Singh](https://www.youtube.com/@campusx-official)*
 
+
+## 📝 License
+
+
+This project is licensed under the [MIT License](LICENSE).
